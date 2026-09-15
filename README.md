@@ -169,10 +169,16 @@ Centro Universitário UniCarioca — 2016
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HugoSantosp&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSantosp&layout=compact&theme=transparent&hide_border=true" />
-</p>
+I use GitHub to build, experiment, and document software projects, mainly focused on Java and backend development.
+
+My repositories include projects involving:
+
+- Java & Spring Boot
+- REST APIs
+- PostgreSQL
+- Docker
+- Angular & React
+- Cloud & infrastructure
 
 ---
 
