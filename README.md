@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Hugo Santos Pereira 👋
 
-<!--
-**HugoSantosp/HugoSantosp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Java | Spring Boot | Backend Development
 
-Here are some ideas to get you started:
+I'm a Software Engineer from Brazil focused on backend development
+with Java and Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies
+
+- Java
+- Spring Boot
+- Spring Security
+- PostgreSQL
+- Docker
+- AWS
+- Angular
+- React
+- TypeScript
+
+## 📌 Featured Projects
+
+### SGE — Church Management System
+
+A church management platform built with Java and Spring Boot.
+
+**Tech Stack:** Java 21 · Spring Boot · PostgreSQL · Angular · Docker
+
+### Gas Inspection System
+
+A system for managing gas inspection service orders.
+
+**Tech Stack:** Java · Spring Boot · PostgreSQL · Thymeleaf · Docker
+
+## 🎓 Education
+
+MBA in Cloud Computing — Software Architecture
+
+Associate Degree in Systems Analysis and Development
+
+## ☁️ Certification
+
+AWS Certified Cloud Practitioner
